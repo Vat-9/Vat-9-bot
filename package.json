@@ -1,6 +1,6 @@
 {
   "name": "Queen_Anju",
-  "version": "2.5",
+  "version": "1.0.0",
   "description": "A Simple WhatsApp bot created By King-Rashmika",
   "main": "queen.js",
   "scripts": {
